@@ -1,5 +1,8 @@
 body {
   background-color: lemonchiffon;
   text-align: center;
-  padding: 1000px;
+}
+#all-text {
+  padding-left: 100px;
+  padding-right: 100px;
 }

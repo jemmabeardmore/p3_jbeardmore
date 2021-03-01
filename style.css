@@ -1,6 +1,9 @@
 #title-page {
   text-align: center;
 }
+#about-section {
+  padding-right: 100px;
+}
 body {
   background-color: rgb(198, 233, 245);
 }
